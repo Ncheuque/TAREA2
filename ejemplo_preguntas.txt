@@ -1,0 +1,22 @@
+OM|¿Cuál es la definición correcta de polimorfismo en programación orientada a objetos?|2|3|2024|La capacidad de un objeto de tomar múltiples formas;La herencia de múltiples clases;La encapsulación de datos;El uso de múltiples constructores|0
+VF|La herencia permite que una clase hija acceda a todos los métodos y atributos de la clase padre.|2|2|2024|true
+OM|¿Qué patrón de diseño se utiliza para crear una única instancia de una clase?|3|4|2024|Factory;Singleton;Observer;Strategy|1
+VF|En Java, todas las clases heredan implícitamente de la clase Object.|1|1|2024|true
+OM|¿Cuál de las siguientes opciones describe mejor el principio de encapsulación?|4|5|2024|Ocultar los detalles de implementación y exponer solo la interfaz necesaria;Permitir que múltiples clases hereden de una clase base;Crear objetos sin especificar su clase exacta;Definir una familia de algoritmos intercambiables|0
+VF|El polimorfismo solo se puede lograr a través de la herencia.|4|3|2024|false
+OM|¿Qué nivel de la taxonomía de Bloom se enfoca en la capacidad de juzgar el valor de la información?|5|2|2024|Recordar;Comprender;Aplicar;Evaluar|3
+VF|La taxonomía de Bloom tiene exactamente 5 niveles cognitivos.|1|1|2024|false
+OM|Al diseñar un sistema de gestión de biblioteca, ¿cuál sería la mejor manera de implementar diferentes tipos de usuarios?|6|8|2024|Usar una clase base Usuario con subclases para cada tipo;Crear clases separadas sin relación;Usar solo interfaces;Implementar todo en una sola clase|0
+VF|El nivel "Crear" es el más alto en la taxonomía de Bloom revisada.|2|2|2024|true
+OM|¿Cual es el tipo de Pikachu?|1|1|2024|Electrico;Agua;Fuego;Planta|0
+VF|Charizard es un Pokemon tipo Dragon.|1|1|2024|false
+OM|¿Cual es la evolucion de Eevee que es tipo Agua?|2|2|2024|Flareon;Vaporeon;Jolteon;Leafeon|1
+VF|Todos los Pokemon tipo Fantasma son debiles contra ataques tipo Siniestro.|2|2|2024|false
+OM|¿Cuantos tipos de Pokemon existen actualmente?|3|3|2024|15;18;20;25|1
+VF|Un Pokemon puede tener como maximo dos tipos.|3|2|2024|true
+OM|¿Que tipo de Pokemon seria mas efectivo contra un Pokemon tipo Roca/Tierra?|4|3|2024|Fuego;Electrico;Agua;Volador|2
+VF|Los Pokemon legendarios siempre son mas fuertes que los Pokemon normales en todos los aspectos.|4|2|2024|false
+OM|¿Cual seria la mejor estrategia contra un equipo con muchos Pokemon tipo Agua?|5|4|2024|Usar Pokemon tipo Fuego;Usar Pokemon tipo Planta;Usar Pokemon tipo Roca;Usar Pokemon tipo Volador|1
+VF|En combates competitivos, es mejor tener un equipo con Pokemon de un solo tipo para maximizar sinergias.|5|3|2024|false
+OM|Si tuvieras que crear un equipo equilibrado de 6 Pokemon para un torneo, ¿que combinacion de tipos seria mas versatil?|6|5|2024|Solo tipos Fuego y Agua;Una mezcla de tipos ofensivos como Dragon y Lucha;Una combinacion balanceada de tipos complementarios;Solo Pokemon legendarios|2
+VF|Crear estrategias que aprovechen las habilidades unicas de cada Pokemon es mas importante que solo considerar sus tipos.|6|4|2024|true
